@@ -9,4 +9,32 @@
 &lt;p>Unsere Reinigungskräfte sorgen für Sauberkeit und Ordnung – diskret, gründlich und zuverlässig. Wir vermitteln geschultes Reinigungspersonal für Unternehmen aus Industrie, Handel, Logistik und Büro – egal ob tägliche Unterhaltsreinigung oder spezielle Hygienestandards in sensiblen Bereichen gefragt sind.&lt;/p>
 &lt;p>Jede Umgebung hat andere Anforderungen: Deshalb achten wir bei der Auswahl unserer Kräfte auf Erfahrung, Genauigkeit und Vertrautheit mit Reinigungsprotokollen. Unsere Mitarbeiter kennen sich aus mit der Reinigung von Sanitärräumen, Böden, Maschinen, Glasflächen oder Aufenthaltsbereichen – und arbeiten nach Ihren Vorgaben und Zeitplänen.&lt;/p></description></item><item><title>Verpacker</title><link>https://allworkers.github.io/allworkers.at/verpacker/</link><pubDate>Wed, 09 Jul 2025 16:13:40 +0200</pubDate><guid>https://allworkers.github.io/allworkers.at/verpacker/</guid><description>&lt;h1 id="verpacker">Verpacker&lt;/h1>
 &lt;p>Unsere Verpacker sorgen für einen reibungslosen Ablauf in Produktion und Versand – sorgfältig, schnell und belastbar. Ob Serienverpackung, Umpacken, Etikettieren oder das Zusammenstellen individueller Pakete: Wir vermitteln zuverlässige Mitarbeitende, die zügig arbeiten und dennoch mit Auge fürs Detail.&lt;/p>
-&lt;p>Verpackung ist mehr als nur Handarbeit – es ist oft der letzte Eindruck, den Ihre Kunden vom Produkt erhalten. Deshalb achten wir auf Mitarbeiter, die sowohl körperlich belastbar als auch qualtitätsbewusst sind. Unsere Verpacker arbeiten zuverlässig im Team, auch unter Zeitdruck, und halten sich an klare Vorgaben.&lt;/p></description></item></channel></rss>
+&lt;p>Verpackung ist mehr als nur Handarbeit – es ist oft der letzte Eindruck, den Ihre Kunden vom Produkt erhalten. Deshalb achten wir auf Mitarbeiter, die sowohl körperlich belastbar als auch qualtitätsbewusst sind. Unsere Verpacker arbeiten zuverlässig im Team, auch unter Zeitdruck, und halten sich an klare Vorgaben.&lt;/p></description></item><item><title>Kontakt</title><link>https://allworkers.github.io/allworkers.at/contact/</link><pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate><guid>https://allworkers.github.io/allworkers.at/contact/</guid><description>&lt;!-- @format -->
+&lt;section class="lg:pb-24">
+ &lt;div class="max-w-screen-md px-4 mx-auto">
+ &lt;p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">Sie benötigen Fachkräfte? Schreiben Sie uns Ihr angebot und wir kommen Ihnen entgegen.&lt;/p>
+ &lt;form name="contact" action="https://formsubmit.co/mrelmesiry@gmail.com" method="POST" class="space-y-8">
+ &lt;div class="my-4">
+ &lt;label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300">&lt;strong>E-Mail&lt;/strong>&lt;/label>
+ &lt;input type="email" name="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="name@example.com" required>
+ &lt;/div>
+ &lt;div class="my-4">
+ &lt;label for="subject" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300">&lt;strong>Betreff&lt;/strong>&lt;/label>
+ &lt;input type="text" name="subject" class="block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-sm text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Ihr Anliegen..." required>
+ &lt;/div>
+ &lt;div class="my-4 sm:col-span-2">
+ &lt;label for="message" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-400">&lt;strong>Nachricht&lt;/strong>&lt;/label>
+ &lt;textarea id="message" name="message" rows="6" class="block p-2.5 w-full text-md text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Ihre Nachricht...">&lt;/textarea>
+ &lt;/div>
+ &lt;div class="mt-6 lg:pb-16">
+ &lt;button type="submit" class="px-5 py-3 font-bold text-center text-white bg-indigo-600 rounded-lg text-md sm:w-fit hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800">Nachricht Senden&lt;/button>
+ &lt;/div>
+ &lt;/form>
+ &lt;/div>
+&lt;/section></description></item><item><title>Über Uns</title><link>https://allworkers.github.io/allworkers.at/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://allworkers.github.io/allworkers.at/about/</guid><description>&lt;h1 id="über-uns">Über uns&lt;/h1>
+&lt;h2 id="wer-wir-sind">Wer wir sind&lt;/h2>
+&lt;p>Die All Workers GmbH ist ein modernes, inhabergeführtes Unternehmen für Personalvermittlung und Arbeitnehmerüberlassung. Unser Team bringt Menschen und Unternehmen effizient, fair und lösungsorientiert zusammen – deutschlandweit.&lt;/p>
+&lt;h2 id="unsere-philosophie">Unsere Philosophie&lt;/h2>
+&lt;p>&lt;strong>Persönlich. Flexibel. Zuverlässig.&lt;/strong>&lt;br>
+Wir glauben, dass erfolgreiche Zusammenarbeit auf Vertrauen basiert. Deshalb setzen wir auf direkten Kontakt, schnelle Rückmeldungen und maßgeschneiderte Lösungen – statt auf Standards von der Stange.&lt;/p>
+&lt;p>Ob kurzfristige Personalbedarfe oder langfristige Besetzungen – wir reagieren schnell und finden die richtige Lösung für Ihre Anforderungen.&lt;/p></description></item></channel></rss>
