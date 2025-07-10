@@ -1,4 +1,4 @@
-baseURL: 'https://allworkers.at'
+baseURL: 'localhost:3002'
 title: All Workers GmbH
 languageCode: de-at
 DefaultContentLanguage: de
@@ -11,6 +11,7 @@ pagination:
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+
 
 markup:
   goldmark:
@@ -47,6 +48,7 @@ markup:
       xhtml: false
 
 params:
+  author: All Workers GmbH
   og_image: "/images/team.jpg"
   contact_button:
     text: "Interessiert - Schreibe uns eine E-mail"
@@ -90,7 +92,6 @@ params:
       enabled: true
     logos:
       - identifier: a
-        image: "images/global/sample-logo.svg"
         alt: "a"
       - identifier: b
         image: "images/global/Logo_Aida.png"
@@ -122,6 +123,10 @@ menu:
       name: Kontakt
       url: /contact/
       weight: 50
+    - identifier: impressum
+      name: Impressum
+      url: /impressum/
+      weight: 50
   footer:
     - identifier: about
       name: Über Uns
@@ -131,6 +136,15 @@ menu:
       name: Kontakt
       url: /contact/
       weight: 50
+    - identifier: impressum
+      name: Impressum
+      url: /impressum/
+      weight: 40
+    - identifier: datenschutz
+      name: Datenschutz
+      url: /datenschutz/
+      weight: 100
+
 
 
 taxonomies:

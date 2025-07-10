@@ -13,3 +13,4 @@ Verpackung ist mehr als nur Handarbeit – es ist oft der letzte Eindruck, den I
 Ob saisonaler Spitzenbedarf oder dauerhafte Verstärkung – wir liefern kurzfristig einsatzbereite Kräfte. Auf Wunsch mit Erfahrung in speziellen Verpackungssystemen, im Umgang mit empfindlichen Waren oder in der produktionsnahen Kommissionierung. Bei All Workers erhalten Sie flexible Unterstützung für Ihre Logistik – punktgenau und bedarfsgerecht.
 
 
+

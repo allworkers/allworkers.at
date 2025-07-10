@@ -2,7 +2,7 @@
 author: TailBliss
 title: "Schlosser"
 date: 2025-07-09T16:14:24+02:00
-featured_image: "images/posts/schlossser.jpg"
+featured_image: "images/posts/schlosser.jpg"
 ---
 
 # Schlosser
