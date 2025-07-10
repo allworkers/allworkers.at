@@ -104,15 +104,6 @@ params:
     heading: "Unsere Angebote"
     content:
       - text: "Diese Leistungen bieten wir aktuell an wir richten uns jedoch ganz nach Ihrem Bedarf. Schreiben Sie uns einfach, was Sie suchen, und wir erstellen Ihnen ein passendes Angebot."
-  p5:
-    heading: "Stay Up to Date"
-    content:
-      - text: "Wenn Sie immer die neuesten Angebote mitbekommen wollen, dann melden Sie sich jetzt bei unserem Newsletter an."
-    action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
-
 menu:
   main:
     - identifier: about
