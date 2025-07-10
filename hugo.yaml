@@ -1,4 +1,4 @@
-baseURL: 'https://allworkers.github.io/allworkers.at'
+baseURL: 'https://allworkers.github.io/allworkers.at/'
 title: All Workers GmbH
 languageCode: de-at
 DefaultContentLanguage: de
@@ -100,7 +100,7 @@ params:
       - identifier: e
       - identifier: f
   p4:
-    heading: "Unsere Dienstleistungen"
+    heading: "Unsere Angebote"
     content:
       - text: "Diese Leistungen bieten wir aktuell an wir richten uns jedoch ganz nach Ihrem Bedarf. Schreiben Sie uns einfach, was Sie suchen, und wir erstellen Ihnen ein passendes Angebot."
   p5:
@@ -115,27 +115,23 @@ params:
 menu:
   main:
     - identifier: about
-      name: About
+      name: Über uns
       url: /about/
       weight: 20
     - identifier: contact
-      name: Contact
+      name: Kontakt
       url: /contact/
       weight: 50
   footer:
     - identifier: about
-      name: About
+      name: Über Uns
       url: /about/
       weight: 10
     - identifier: contact
-      name: Contact
+      name: Kontakt
       url: /contact/
       weight: 50
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 taxonomies:
   category: Categories

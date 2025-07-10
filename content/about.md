@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Über Uns"
 date: 2021-12-18T11:10:36+08:00
 draft: false
 language: de
-description: About Us
+description: Über Uns
 featured_image: 
 ---
 
