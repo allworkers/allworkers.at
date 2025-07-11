@@ -11,7 +11,7 @@ description: Kontakt
 <section class="lg:pb-24">
   <div class="max-w-screen-md px-4 mx-auto">
       <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">Sie benötigen Fachkräfte? Schreiben Sie uns Ihr angebot und wir kommen Ihnen entgegen.</p>
-      <form name="contact" action="https://formsubmit.co/mrelmesiry@gmail.com" method="POST" class="space-y-8">
+      <form name="contact" action="https://formsubmit.co/office@allworkers.at" method="POST" class="space-y-8">
           <div class="my-4">
               <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>E-Mail</strong></label>
               <input type="email" name="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="name@example.com" required>
