@@ -1,7 +1,7 @@
 baseURL: 'https://allworkers.at'
 title: All Workers GmbH
 languageCode: de-at
-DefaultContentLanguage: de
+DefaultContentLanguage: de-at
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
