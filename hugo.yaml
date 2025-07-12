@@ -104,29 +104,34 @@ params:
     heading: "Unsere Angebote"
     content:
       - text: "Diese Leistungen bieten wir aktuell an wir richten uns jedoch ganz nach Ihrem Bedarf. Schreiben Sie uns einfach, was Sie suchen, und wir erstellen Ihnen ein passendes Angebot."
+    contact_button:
+      text: "Alle Angebote →"
+      url: "/unsere-angebote/"
+      enabled: true
+  p5:
+    heading: Unsere Arbeit
+    content:
+      - text: Hier sehen Sie unserer Leute im einsatz.
+    media:
+      - type: "image"
+        src: "/images/team.jpg"
+        text: Unser team bei der arbeit
+    enable: false
 menu:
   main:
     - identifier: about
       name: Über uns
       url: /about/
       weight: 20
+    - identifier: angebote
+      name: Unsere Dienste
+      url: /unsere-angebote/
+      weight: 30
     - identifier: contact
       name: Kontakt
       url: /contact/
-      weight: 50
-    - identifier: impressum
-      name: Impressum
-      url: /impressum/
       weight: 50
   footer:
-    - identifier: about
-      name: Über Uns
-      url: /about/
-      weight: 10
-    - identifier: contact
-      name: Kontakt
-      url: /contact/
-      weight: 50
     - identifier: impressum
       name: Impressum
       url: /impressum/
