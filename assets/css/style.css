@@ -1252,10 +1252,6 @@ video {
   margin-top: 2rem;
 }
 
-.ml-auto {
-  margin-left: auto;
-}
-
 .block {
   display: block;
 }
@@ -1468,10 +1464,6 @@ video {
 
 .items-center {
   align-items: center;
-}
-
-.justify-end {
-  justify-content: flex-end;
 }
 
 .justify-center {
@@ -2032,13 +2024,13 @@ video {
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
 }
 
-.ring-zinc-300\/40 {
-  --tw-ring-color: rgb(212 212 216 / 0.4);
-}
-
 .ring-primary-500 {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(99 102 241 / var(--tw-ring-opacity, 1));
+}
+
+.ring-zinc-300\/40 {
+  --tw-ring-color: rgb(212 212 216 / 0.4);
 }
 
 .transition {
