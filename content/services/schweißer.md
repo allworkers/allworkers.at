@@ -17,7 +17,7 @@ Wir arbeiten zuverlässig, termingerecht und immer nach aktuellen Normen – fü
 Ergebnisse. Vertrauen Sie auf echte Handwerksarbeit mit Funkenflug.
 
 <div class="mb-4 mt-6">
-<a href="/über-uns/"
+<a href="/contact/" 
 class="inline-flex items-center px-6 py-3 text-base font-medium text-white bg-primary-600 hover:bg-primary-700
 rounded-md shadow-sm transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:
 ring-primary-500">
