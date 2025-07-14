@@ -113,10 +113,19 @@ params:
     content:
       - text: Hier sehen Sie unserer Leute im einsatz.
     media:
+      - type: "video"
+        src: "/images/oben.mp4"
+      - type: "video"
+        src: "/images/rohr.mp4"
+      - type: "video"
+        src: "/images/rohr_schneiden.mp4"
+      - type: "video"
+        src: "/images/schneiden.mp4"
+      - type: "video"
+        src: "/images/rohr_schneiden_perspektive.mp4"
       - type: "image"
-        src: "/images/team.jpg"
-        text: Unser team bei der arbeit
-    enable: false
+        src: "/images/mitarbeiter.jpeg"
+    enable: true
 menu:
   main:
     - identifier: about
