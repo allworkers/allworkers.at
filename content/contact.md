@@ -28,5 +28,11 @@ description: Kontakt
              <button type="submit" class="px-5 py-3 font-bold text-center text-white bg-indigo-600 rounded-lg text-md sm:w-fit hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800">Nachricht Senden</button>
           </div>
       </form>
+
+    Meidlinger Hauptstraße 47/1
+    1120 Wien
+    Telefon: +43 660 3213420
+    E-Mail: office@allworkers.at
+
   </div>
 </section>
