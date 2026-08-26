@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  overflow-x: clip;
+}
+
+body {
+  @apply bg-ink-950 text-steel-200 font-sans antialiased;
+  overflow-x: clip;
+}
+
+/* Arabic / RTL typography */
+html[dir='rtl'] body {
+  font-family: 'IBM Plex Sans Arabic', 'Inter', system-ui, sans-serif;
+}
+html[dir='rtl'] .font-display {
+  font-family: 'IBM Plex Sans Arabic', 'Barlow Condensed', sans-serif;
+  letter-spacing: 0;
+}
+
+::selection {
+  background: #ffb020;
+  color: #0a0b0d;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 11px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0b0d;
+}
+::-webkit-scrollbar-thumb {
+  background: #333b45;
+  border-radius: 6px;
+  border: 2px solid #0a0b0d;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f57c00;
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] text-amber-400;
+  }
+  .heading {
+    @apply font-display font-bold uppercase leading-[0.95] tracking-tight text-white;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-md px-6 py-3.5 text-sm font-semibold tracking-wide transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-ink-950;
+  }
+  .btn-primary {
+    @apply btn bg-amber-500 text-ink-950 hover:bg-amber-400 hover:shadow-[0_10px_40px_-12px_rgba(255,152,0,0.6)];
+  }
+  .btn-ghost {
+    @apply btn border border-ink-600 bg-transparent text-steel-200 hover:border-amber-400 hover:text-white;
+  }
+  .card {
+    @apply relative overflow-hidden rounded-xl border border-ink-700 bg-ink-850;
+  }
+  .noise {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 3px 3px;
+  }
+}
+
+/* Diagonal safety-stripe accent */
+.hazard {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #ffb020 0 14px,
+    #0e1013 14px 28px
+  );
+}
+
+.text-gradient {
+  background: linear-gradient(180deg, #ffffff 0%, #b9c2cc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.mask-fade-r {
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+  mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+}
