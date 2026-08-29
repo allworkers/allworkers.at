@@ -11,13 +11,13 @@ build(){
 
 upload(){
     git add .
-    git commit -m @1
+    git commit -m $1
 }
 
 main(){
     clean
     build
-    upload @1
+    upload $1
 }
 
-main @q
+main $1
