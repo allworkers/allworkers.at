@@ -1,21 +1,21 @@
-import { useEffect, useRef, useState } from 'react'
-import { useI18n } from '../i18n/LanguageContext'
+import { useEffect, useRef, useState } from "react";
+import { useI18n } from "../i18n/LanguageContext";
 
 export default function LanguageSwitcher({ compact = false }) {
-  const { lang, setLang, langs } = useI18n()
-  const [open, setOpen] = useState(false)
-  const ref = useRef(null)
-  const current = langs.find((l) => l.code === lang)
+  const { lang, setLang, langs } = useI18n();
+  const [open, setOpen] = useState(false);
+  const ref = useRef(null);
+  const current = langs.find((l) => l.code === lang);
 
   useEffect(() => {
     const onClick = (e) => {
-      if (ref.current && !ref.current.contains(e.target)) setOpen(false)
-    }
-    document.addEventListener('mousedown', onClick)
-    return () => document.removeEventListener('mousedown', onClick)
-  }, [])
+      if (ref.current && !ref.current.contains(e.target)) setOpen(false);
+    };
+    document.addEventListener("mousedown", onClick);
+    return () => document.removeEventListener("mousedown", onClick);
+  }, []);
 
-  return (
+  return; /*(
     <div className="relative" ref={ref}>
       <button
         type="button"
@@ -61,5 +61,5 @@ export default function LanguageSwitcher({ compact = false }) {
         </ul>
       )}
     </div>
-  )
+  )*/
 }
